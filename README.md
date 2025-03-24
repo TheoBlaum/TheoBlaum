@@ -66,10 +66,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
-
-<h2 align="left">🎧</h2>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316eu65mgive4hfxsalvd64kxhl4&unique={true|1|on|yes})
-
-###
