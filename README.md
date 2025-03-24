@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">I also use</h2>
+<h2 align="left">And I also use</h2>
 
 ###
 
