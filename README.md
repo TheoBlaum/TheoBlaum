@@ -78,10 +78,3 @@
   </a>
 </div>
 
-###
-
-<h2 align="left">I like to work with music 🎧</h2>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316eu65mgive4hfxsalvd64kxhl4)
-
-###
