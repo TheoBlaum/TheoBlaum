@@ -68,18 +68,6 @@
 
 ###
 
-<h2 align="left">You can find me on it</h2>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/theo-butz-developpeur-fullstack" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <h2 align="left">🎧</h2>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316eu65mgive4hfxsalvd64kxhl4&unique={true|1|on|yes})
