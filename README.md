@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Théo, an aspiring full-stack developer from France with a strong appetite for front-end development.</p>
+<p align="left">I’m Théo, a front end developer from France with a strong appetite for good UX.</p>
 
 ###
 
