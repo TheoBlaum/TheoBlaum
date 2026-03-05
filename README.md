@@ -35,12 +35,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/symfony/000000" height="40" alt="symfony logo"  />
 </div>
 </div>
 
 
-<h2 align="left">I also use</h2>
+<h2 align="left">Sometimes I also use</h2>
 
 ###
 
@@ -82,7 +81,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/theo-butz-developpeur-fullstack" target="www.linkedin.com/in/theo-butz-developpeur-fullstack">
+  <a href="www.linkedin.com/in/theo-butz-ux-designer" target="www.linkedin.com/in/theo-butz-ux-designer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
